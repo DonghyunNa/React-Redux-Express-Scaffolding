@@ -1,0 +1,1 @@
+export const FOO_BAR = "FOO_BAR";
