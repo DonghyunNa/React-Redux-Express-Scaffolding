@@ -1,4 +1,4 @@
-# React.js + Redux + Redux
+# React.js + Redux + Express
 
     npm install
 
